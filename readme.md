@@ -1,4 +1,4 @@
-## Hi, I'm Gustavo Zanom, Junior Web Developer from Brazil!
+## Hi, I'm Gustavo Zanon, Junior Web Developer from Brazil!
 
 **About me**
 <br>
