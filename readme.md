@@ -2,9 +2,9 @@
 
 **About me**
 
-😀 - 21 years old;
-📚 - Studying information systems;
-🌱 - I'm currently learning HTML, CSS and JavaScript;
+<p>😀 - 21 years old;</p>
+<p>📚 - Studying information systems;</p>
+<p>🌱 - I'm currently learning HTML, CSS and JavaScript;</p>
 
 <div> 
   <a href="https://instagram.com/gf_znn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
