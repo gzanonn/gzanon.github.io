@@ -1,5 +1,9 @@
 # gzanon.github.io
 
+mkdir /c/Users/zanon/Documents/teste-git
+cd /c/Users/zanon/Documents/teste-git
+git-init
+
 <html>
     <head>
         <div class="fundo">
